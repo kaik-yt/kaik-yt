@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil 💙
 
-<!--
-**kaik-yt/kaik-yt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e kaik farias 
 
-Here are some ideas to get you started:
+- esotu estudando na alura
+- estou me desenvolvedo na linguagem javascript
+- utilizo esse espaco para minha organizacao e compartilhamento dos meu projetos desenvolvidas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce entrar em contato comigo 📫
+
+- kaikfarias34@gmail.com
+
+!.[_](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
